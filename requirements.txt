@@ -1,8 +1,6 @@
-- streamlit
-- mediapipe
-- cv2
-- Numpy as np
-- MongoClient
-- Pillow
-- io
-- base64
+streamlit
+mediapipe
+opencv-python
+numpy
+pillow
+pymongo
