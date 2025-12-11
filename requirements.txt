@@ -1,0 +1,8 @@
+- streamlit
+- mediapipe
+- cv2
+- Numpy as np
+- MongoClient
+- Pillow
+- io
+- base64
